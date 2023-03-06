@@ -1,3 +1,4 @@
 "just adding some random text"
 "adding more text"
-"more text - testing commit message from VS Code" git
+"more text - testing commit message from VS Code" 
+"I just changed my commit to commit through VS code. Super confused. Testing commit -m with terminal now."
