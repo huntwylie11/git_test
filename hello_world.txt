@@ -1,2 +1,3 @@
 "just adding some random text"
 "adding more text"
+"more text - testing commit message from VS Code" git
